@@ -1,0 +1,8 @@
+@inproceedings{guerin2016learning,
+  title={Learning local trajectories for high precision robotic tasks: Application to KUKA LBR iiwa Cartesian positioning},
+  author={Gu{\'e}rin, Joris and Gibaru, Olivier and Nyiri, Eric and Thiery, St{\'e}phane},
+  booktitle={IECON 2016-42nd Annual Conference of the IEEE Industrial Electronics Society},
+  pages={5316--5321},
+  year={2016},
+  organization={IEEE}
+}
