@@ -75,6 +75,7 @@ var mypubli = '<h2>Publications</h2>\
   [<a href="https://arxiv.org/abs/1707.02978">arXiv</a>] \
   [<a href="./bib/iecon18.txt">bibtex</a>] \
   [<a href="./presentations/pres_iecon18.pdf">presentation</a>] \
+  [<a href="https://github.com/jorisguerin/endToEnd_stereoLocalization">data</a>] \
   <br><br><br> \
       <b><papertitle>Unsupervised robotic sorting: Towards autonomous decision making robots</papertitle></b> \
   <br> \
