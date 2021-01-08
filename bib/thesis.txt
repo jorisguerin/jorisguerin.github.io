@@ -1,7 +1,7 @@
 @phdthesis{GuerinThesis2018,
   author = "Joris Gu\'erin",
-  title = "Machine learning improvements for robotic applications in industrial context: Case study of autonomous sorting",
+  title  = "Machine learning improvements for robotic applications in industrial context: Case study of autonomous sorting",
   school = "Arts et M\'etiers ParisTech",
-  year = {2018},
-  month = {December},
+  year   = {2018},
+  month  = {December},
 }

@@ -1,0 +1,10 @@
+@article{guerin_neucom,
+title    = {Combining pretrained CNN feature extractors to enhance clustering of complex natural images},
+journal  = {Neurocomputing},
+volume   = {423},
+pages    = {551--571},
+year     = {2021},
+doi      = {10.1016/j.neucom.2020.10.068},
+author   = {Gu{\'e}rin, Joris and Thiery, St{\'e}phane and Nyiri, Eric and Gibaru, Olivier and Boots, Byron},
+keywords = {Image clustering, Transfer clustering, Multi-View clustering},
+}

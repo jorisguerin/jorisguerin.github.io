@@ -1,7 +1,7 @@
 @inproceedings{guerin2017clustering,
-  title={Clustering for different scales of measurement-the gap-ratio weighted k-means algorithm},
-  author={Gu{\'e}rin, Joris and Gibaru, Olivier and Thiery, Stephane and Nyiri, Eric},
-  booktitle={7th International Conference on Computer Science, Engineering and Information Technology (CCSEIT 2017)},
-  year={2017},
-  organization={AIRCC Publishing Corporation}
+  title        = {Clustering for different scales of measurement-the gap-ratio weighted k-means algorithm},
+  author       = {Gu{\'e}rin, Joris and Gibaru, Olivier and Thiery, Stephane and Nyiri, Eric},
+  booktitle    = {7th International Conference on Computer Science, Engineering and Information Technology (CCSEIT 2017)},
+  year         = {2017},
+  organization = {AIRCC Publishing Corporation}
 }

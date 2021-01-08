@@ -1,7 +1,7 @@
 @inproceedings{guerin2018cnnfeatures,
-  title={CNN Features are also Great at Unsupervised Classification},
-  author={Gu{\'e}rin, Joris and Gibaru, Olivier and Thiery, Stephane and Nyiri, Eric},
-  booktitle={8th International Conference on Computer Science, Engineering and Applications (CCSEA 2018)},
-  year={2018},
-  organization={AIRCC Publishing Corporation}
+  title        = {{CNN} Features are also Great at Unsupervised Classification},
+  author       = {Gu{\'e}rin, Joris and Gibaru, Olivier and Thiery, Stephane and Nyiri, Eric},
+  booktitle    = {8th International Conference on Computer Science, Engineering and Applications (CCSEA 2018)},
+  year         = {2018},
+  organization = {AIRCC Publishing Corporation}
 }

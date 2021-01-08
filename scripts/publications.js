@@ -1,6 +1,76 @@
 var mypubli = '<h2>Publications</h2>\
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20"> \
 <tr> \
+  <td width="25%" valign="top"> <h2>2021</h2></td> \
+  <td width="75%" valign="top"> \
+  <p align="justify"> \
+      <b><papertitle>Combining pretrained CNN feature extractors to enhance \
+      clustering of complex natural images</papertitle></b> \
+  <br> \
+  Joris Guérin, Stéphane Thiery,\
+  Éric Nyiri,\
+  <a href="http://www.oliviergibaru.org/">Olivier Gibaru</a>,\
+  <a href="https://homes.cs.washington.edu/~bboots/">Byron Boots</a>\
+  <br> \
+  <em>Neurocomputing</em>, 2021 \
+  <br> \
+  [<a href="./documents/neurocomputing_arxiv.pdf">PDF</a>] \
+  [<a href="./bib/neurocomputing.txt">bibtex</a>] \
+  </p></td> \
+</tr> \
+<tr> \
+  <td width="25%" valign="top"> <h2>2020</h2></td> \
+  <td width="75%" valign="top"> \
+  <p align="justify"> \
+      <b><papertitle>Robust Detection of Objects under Periodic Motion with Gaussian Process Filtering</papertitle></b> \
+  <br> \
+  Joris Guérin, <a href="https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1350250">Anne Magaly de Paula Canuto</a>,\
+  <a href="https://www.dca.ufrn.br/~lmarcos/">Luiz Marcos Garcia Gonçalves </a>\
+  <br> \
+  <em>International Conference on Machine Learning and Applications (ICMLA)</em> (2020) \
+  <br> \
+  [<a href="https://arxiv.org/pdf/2009.14178.pdf">PDF</a>] \
+  [<a href="https://arxiv.org/abs/2009.14178">arXiv</a>] \
+  [<a href="./bib/icmla20.txt">bibtex</a>] \
+  [<a href="https://www.youtube.com/watch?v=gPATyKlvNz4">Video presentation</a>] \
+  <br><br><br> \
+      <b><papertitle>Towards practical implementations of person re-identification from full video frames</papertitle></b> \
+  <br> \
+  Felix O.Sumari, \
+  Luigy Machaca, \
+  Jose Huaman, \
+  <a href="http://www.ic.uff.br/~esteban/">Esteban W.G. Clua</a>, \
+  Joris Guérin \
+  <br> \
+  <em>Pattern Recognition Letters</em>, 2020 \
+  <br> \
+  [<a href="https://arxiv.org/pdf/2009.01377.pdf">PDF</a>] \
+  [<a href="https://arxiv.org/abs/2009.01377">arXiv</a>] \
+  [<a href="./bib/prl.txt">bibtex</a>] \
+  <br><br><br> \
+      <b><papertitle>Forecasting Covid-19 dynamics in Brazil: a data driven approach</papertitle></b> \
+  <br> \
+  Igor Pereira, Joris Guérin, Angouglas Silva Junior, Gabriel Garcia, Prisco Piscitelli, Alessandro Miani,\
+  Cosimo Distante, Luiz Marcos Gonçalves\
+  <br> \
+  <em>International Journal of Environmental Research and Public Health</em>, 2020 \
+  <br> \
+  [<a href="https://arxiv.org/pdf/2005.09475.pdf">PDF</a>] \
+  [<a href="https://arxiv.org/abs/2005.09475">arXiv</a>] \
+  [<a href="./bib/ijerph.txt">bibtex</a>] \
+  <br><br><br> \
+      <b><papertitle>Precipitation, landscape properties and land use interactively affectwater quality of tropical freshwaters</papertitle></b> \
+  <br> \
+  Regina Nobre, Adriano Caliman, Camila Cabral, Fernando de Carvalho Araújo, Joris Guérin,\
+  Fabíola Dantas, Letícia Quesado, Eduardo Venticinque, Rafael Guariento, André Amado, Patrick Kelly, Michael Vanni, Luciana Carneiro,\
+  <br> \
+  <em>Science of the Total Environment (STOTEN)</em>, 2020 \
+  <br> \
+  [<a href="https://www.sciencedirect.com/science/article/pii/S0048969720305544?casa_token=Z1HFowXytT8AAAAA:IkfBa-KQ4umHDM2KKNZ5lfOBn6U769wNRTneie8Fr02VcBUY05CDyhhvapfMACoS7a-Brf7x6Hs">Link</a>] \
+  [<a href="./bib/stoten.txt">bibtex</a>] \
+  </p></td> \
+</tr> \
+<tr> \
   <td width="25%" valign="top"> <h2>2019</h2></td> \
   <td width="75%" valign="top"> \
   <p align="justify"> \
@@ -15,7 +85,7 @@ var mypubli = '<h2>Publications</h2>\
   <br> \
   <em>International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES)</em>, 2019 \
   <br> \
-  [<a href="https://pdf.sciencedirectassets.com/280203/1-s2.0-S1877050919X00149/1-s2.0-S1877050919313523/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjENz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICdVs1VXuhUGl5HtZtyxFxCPTic52Z4MiMatLbnnefy1AiEAkhGJwcryRu8o6bUe1ebA6z2GrUwdmKvrMkRu%2BMgWNJQqzwIINRACGgwwNTkwMDM1NDY4NjUiDO3MIWEJ2vA9hbrXKiqsAqQrnCY28%2Bsz%2BH1mP2kiWNQc9gkE8Mdj1cL3DUe2Va38KJHP8eToVF2QgMVah5tou0hMtyyG3IDszCYQAu9Jq3t6TXQc7f9xOXoVwNHVofSKTZEN0BOlWrl%2BPR8DFBJm0DcF7ARPIvnBgu9OOQ5%2BECXWts%2BMt2cICNPK1iaGoVQVGR2BTwXgpAvQast15dCBaUrSHTieIaHYrk8pQ2%2Fe2%2Fi71TClaIiaCuO7O%2B6Pe%2BDmzil5eH2t6hYCWuX1KZ9xaAJgJZWurQ%2F%2FCFqo4x54ItSTgfZOg5N7nnCFh3VfaU2Ypdc9wy8IVdnzcfuvvF5N2e2A%2FUxJ9fNZgX0ngzeO8r1n1WFieJ0dnD3Ese4%2BCGi1VIuUE9vkgQk92tXW3tc1FR%2BjMER8eizol73U4zCA28%2FvBTrQAg8044bPWrvem9zpC6RKQ0zInC1vZtXTz90VbEu9UTxFNZvcCr26RSb84UlfDMzpaCJAay6KsMWFSF5uZ%2Bdm7GYVc582JAeG%2BPhG34fJ6o6WH0o08kTEPBrEcpoE0QHyTqpN79rqMvWBqqe9%2Bcyp2lfBJ%2BhLJUab1BtI%2B04FbK%2BkoCqC8H6YXHufRQuSVHZH4OSbgwZRN4GzjAN4SHTWqs0GrUkUvX1EpbVFK4hGMeizazl4r4PDxPX0Owr0rcSn6UHYhKo55EVibNgj9dp9UUkFNOR3Wbm0morN5yo5aD%2FXeIhC8pm%2BGS%2BpazbBOJcRrELClg4ZQWm5yxUYIveH0nP9CuhwJWWohl3S5KMHyn8IolzNYGidfNSMtDTjHNRmcWjdWgavmFbMc4%2FWxJYOwKbY7RxLZjCLou7pFGO8s5KYz5ii6csfczeH0MUJdeBqWQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20191213T203704Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY4SO36NGM%2F20191213%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=ee7055a3ba08303365184f85b3a1db06cb4c934d3e6032c58161d7f04c421792&hash=06bf7115bfbff5b2a61c6627280410c61855c089c25f1f2ddb5a3a83b8b3e454&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1877050919313523&tid=spdf-579750ca-c27c-4a7e-bab7-1131adbc12c8&sid=02b0369d2a8b614328281195321d7138219fgxrqa&type=client">PDF</a>] \
+  [<a href="https://www.sciencedirect.com/science/article/pii/S1877050919313523">Link</a>] \
   [<a href="./bib/kes19.txt">bibtex</a>] \
   </p></td> \
 </tr> \
@@ -49,8 +119,8 @@ var mypubli = '<h2>Publications</h2>\
   <br> \
   Joris Guérin, \
   <a href="http://www.oliviergibaru.org/">Olivier Gibaru</a>, \
-  <a href="https://www.researchgate.net/profile/Eric_Nyiri">Éric Nyiri</a>, \
-  <a href="https://www.researchgate.net/profile/Thiery_Stephane">Stéphane Thiery</a>, \
+  Éric Nyiri, \
+  Stéphane Thiery, \
   <a href="https://homes.cs.washington.edu/~bboots/">Byron Boots</a> \
   <br> \
   <em>International Conference on Intelligent Robots and Systems (IROS)</em>, 2018 \
@@ -65,8 +135,8 @@ var mypubli = '<h2>Publications</h2>\
   <br> \
   Joris Guérin \
   <a href="http://www.oliviergibaru.org/">Olivier Gibaru</a>, \
-  <a href="https://www.researchgate.net/profile/Eric_Nyiri">Éric Nyiri</a>, \
-  <a href="https://www.researchgate.net/profile/Thiery_Stephane">Stéphane Thiery</a>, \
+  Éric Nyiri, \
+  Stéphane Thiery, \
   Jorge Palos</a> \
   <br> \
   <em>Industrial Electronics Conference (IECON)</em>, 2018 \
@@ -80,8 +150,8 @@ var mypubli = '<h2>Publications</h2>\
       <b><papertitle>Unsupervised robotic sorting: Towards autonomous decision making robots</papertitle></b> \
   <br> \
   Joris Guérin, \
-  <a href="https://www.researchgate.net/profile/Thiery_Stephane">Stéphane Thiery</a>, \
-  <a href="https://www.researchgate.net/profile/Eric_Nyiri">Éric Nyiri</a>, \
+  Stéphane Thiery, \
+  Éric Nyiri, \
   <a href="http://www.oliviergibaru.org/">Olivier Gibaru</a>, \
   <br> \
   <em>International Journal of Artificial Intelligence and Applications (IJAIA)</em>, March 2018 \
@@ -94,8 +164,8 @@ var mypubli = '<h2>Publications</h2>\
   <br> \
   Joris Guérin, \
   <a href="http://www.oliviergibaru.org/">Olivier Gibaru</a>, \
-  <a href="https://www.researchgate.net/profile/Thiery_Stephane">Stéphane Thiery</a>, \
-  <a href="https://www.researchgate.net/profile/Eric_Nyiri">Éric Nyiri</a>, \
+  Stéphane Thiery, \
+  Éric Nyiri, \
   <br> \
   <em>International Conference on Computer Science, Engineering and Applications (CCSEA)</em>, 2018 \
   <br> \
@@ -114,8 +184,8 @@ var mypubli = '<h2>Publications</h2>\
   <br> \
   Joris Guérin, \
   <a href="http://www.oliviergibaru.org/">Olivier Gibaru</a>, \
-  <a href="https://www.researchgate.net/profile/Thiery_Stephane">Stéphane Thiery</a>, \
-  <a href="https://www.researchgate.net/profile/Eric_Nyiri">Éric Nyiri</a>, \
+  Stéphane Thiery, \
+  Éric Nyiri, \
   <br> \
   <em>International Conference on Computer Science, Engineering and Information Technology (CCSEIT)</em>, 2017 \
   <br> \
@@ -133,8 +203,8 @@ var mypubli = '<h2>Publications</h2>\
   <br> \
   Joris Guérin \
   <a href="http://www.oliviergibaru.org/">Olivier Gibaru</a>, \
-  <a href="https://www.researchgate.net/profile/Thiery_Stephane">Stéphane Thiery</a>, \
-  <a href="https://www.researchgate.net/profile/Eric_Nyiri">Éric Nyiri</a>, \
+  Stéphane Thiery, \
+  Éric Nyiri, \
   <br> \
   <em>European Workshop on Advanced Control and Diagnosis (ACD) </em>, 2016 \
   <br> \
@@ -145,8 +215,8 @@ var mypubli = '<h2>Publications</h2>\
   <br> \
   Joris Guérin, \
   <a href="http://www.oliviergibaru.org/">Olivier Gibaru</a>, \
-  <a href="https://www.researchgate.net/profile/Eric_Nyiri">Éric Nyiri</a>, \
-  <a href="https://www.researchgate.net/profile/Thiery_Stephane">Stéphane Thiery</a>, \
+  Éric Nyiri, \
+  Stéphane Thiery, \
   <br> \
   <em>Industrial Electronics Conference (IECON)</em>, 2016 \
   <br> \

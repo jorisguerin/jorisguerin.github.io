@@ -1,0 +1,9 @@
+@article{pereira_covid,
+title    = {Forecasting Covid-19 Dynamics in Brazil: A Data Driven Approach},
+journal  = {International Journal of Environmental Research and Public Health},
+volume   = {138},
+pages    = {5115},
+year     = {2020},
+doi      = {10.3390/ijerph17145115},
+author   = {Pereira, Igor G. and Gu{\'e}rin, Joris and J{\'u}nior, Andouglas G. S. and Garcia, Gabriel S. and Piscitelli, Prisco and Miani, Alessandro and Distante, Cosimo and Goncalves, Luiz M. G.}
+}

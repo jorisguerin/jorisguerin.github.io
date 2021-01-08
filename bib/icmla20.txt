@@ -1,0 +1,8 @@
+@inproceedings{guerin2020odgp,
+  author       = {Joris Gu{\'{e}}rin and Anne Magaly de Paula Canuto and Luiz Marcos Garcia Goncalves},
+  title        = {Robust Detection of Objects under Periodic Motion with Gaussian Process Filtering},
+  booktitle    = {Proceedings of the 19th IEEE International Conference On Machine Learning And Applications, (ICMLA)},
+  pages        = {685--692},
+  year         = {2020},
+  organization = {IEEE}
+}

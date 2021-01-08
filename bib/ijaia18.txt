@@ -1,9 +1,9 @@
 @article{guerin2018URS,
-  title={Unsupervised robotic sorting: Towards autonomous decision making robots},
-  author={Gu{\'e}rin, Joris and Thiery, St{\'e}phane and Nyiri, Eric and Gibaru, Olivier},
-  journal={International Journal of Artificial Intelligence and Applications (IJAIA)},
-  volume={9},
-  number={2},
-  year={2018},
-  publisher={http://aircconline. com}
+  title     = {Unsupervised robotic sorting: Towards autonomous decision making robots},
+  author    = {Gu{\'e}rin, Joris and Thiery, St{\'e}phane and Nyiri, Eric and Gibaru, Olivier},
+  journal   = {International Journal of Artificial Intelligence and Applications (IJAIA)},
+  volume    = {9},
+  number    = {2},
+  year      = {2018},
+  publisher = {AIRCC Publishing Corporation}
 }

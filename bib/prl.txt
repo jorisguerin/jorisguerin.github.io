@@ -1,0 +1,9 @@
+@article{sumari_ffreid,
+title    = {Towards Practical Implementations of Person Re-Identification from Full Video Frames},
+journal  = {Pattern Recognition Letters},
+volume   = {138},
+pages    = {513--519},
+year     = {2020},
+doi      = {10.1016/j.patrec.2020.08.023},
+author   = {Sumari, Felix O and Machaca, Luigy and Huaman, Jose and Clua, Esteban WG and Gu{\'e}rin, Joris}
+}
