@@ -25,6 +25,22 @@ var myteaching = '<h2>Teaching</h2>\
 </tr> \
 <tr> \
   <td width="25%" valign="top"> \
+  <img src="images/clusteringLectures.png" alt="Very good image summarizing the course" width="280"> \
+  </td> \
+  <td width="75%" valign="top"> \
+  <p align="justify"> \
+  <b><papertitle>Clustering and dimensionality reduction</papertitle></b> \
+  <br> \
+  [<a href="https://github.com/jorisguerin/clusteringLectures">Lectures slides</a>] \
+  [<a href="https://github.com/jorisguerin/clusteringLectures/tree/main/Hands%20on">Coding assignments</a>] \
+  <br><br> \
+  This repository contains all the material used during my lectures about clustering at INSA Toulouse (November 2021). \
+  The objective is to get started about different unsupervised machine learning algorithms (clustering and \
+  dimensionality reduction).
+  </p></td> \
+</tr> \
+<tr> \
+  <td width="25%" valign="top"> \
   <img src="images/covid_map.png" alt="Very good image summarizing the course" width="280"> \
   </td> \
   <td width="75%" valign="top"> \
