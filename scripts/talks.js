@@ -17,6 +17,24 @@ Gaussian Process to model the periodic motion, and use it to filter out the erro
 of the OD model. By simulating various OD models and periodic trajectories, we demonstrate that\
 this filtering approach, which is entirely data-driven, improves the detection performance by a large margin.</p> \
 </td></tr> \
+<tr> \
+<td width="25%" valign="top"> \
+<img src="images/icmla20.png" alt="Very good image summarizing the course" width="280"> \
+</td> \
+<td width="60%" valign="middle"> \
+<p align="justify"> \
+<b><papertitle>Robust vision for robotics:  leveraging movementto improve perception skills</papertitle></b> \
+<br> \
+<i>This talk was given to the Humanoid Sensing and Perception, Instituto Italiano di Tecnologia (IIT), Genova, Italy, \
+& at the Kick-Off of the ANITI chair CertifAI, Toulouse, France. <i>\
+<br><br> \
+Abstract: Among the Robotics community, Computer Vision is often regarded as a tool to guide Movements of the robotic system.\
+In this talk, a reflexion is proposed regarding the opposite view: how movement can be used to improve the \
+performance of visual perception functions.\
+<br><br> \
+[<a href="./presentations/talk_kickOff_certifAI.pdf">Slides</a>]\
+</p> \
+</td></tr> \
 </table>'
 $(document).ready(function(){
   $("#talks").click(function(){
