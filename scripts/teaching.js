@@ -36,7 +36,7 @@ var myteaching = '<h2>Teaching</h2>\
   <br><br> \
   This repository contains all the material used during my lectures about clustering at INSA Toulouse (November 2021). \
   The objective is to get started about different unsupervised machine learning algorithms (clustering and \
-  dimensionality reduction).
+  dimensionality reduction). \
   </p></td> \
 </tr> \
 <tr> \
